@@ -1,6 +1,6 @@
-# Challenge 01
+## Challenge 01
 
-Modify the existing app to:
+Modify the existing `app.R` to:
 
 1. Allow the uploading of a csv file stored locally.
 2. Display the data frame in the ui.
